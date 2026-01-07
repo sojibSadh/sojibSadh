@@ -12,7 +12,7 @@
 
 </div>
 <div align="center">
-  <strong>Front-End Specialist ⚡ | JavaScript, TypeScript, React.js, Redux, Next.js, Node.js | Building Scalable Systems, Reusable UI Components & Robust Backends | Skilled in MongoDB, Prisma, PostgreSQL | Performance & Clean Code Advocate</strong>
+  <strong>Full Stack Developer ⚡ | JavaScript, TypeScript, React.js, Redux, Next.js, Node.js | Building Scalable Systems, Reusable UI Components & Robust Backends | Skilled in MongoDB, Prisma, PostgreSQL | Performance & Clean Code Advocate</strong>
 </div>
 <br/>
 <hr/>
